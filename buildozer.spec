@@ -22,5 +22,6 @@ warn_on_root = 1
 [android]
 
 android.api = 35
+android.accept_sdk_license = True
 android.minapi = 21
 android.archs = arm64-v8a,armeabi-v7a
